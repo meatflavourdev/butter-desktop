@@ -32,7 +32,7 @@
       "butter-provider-youtube": "*",
       "butter-provider-vodo": "*",
       "butter-provider-archive": "*",
-    "adm-zip": "0.4.7",
+    "adm-zip": "0.5.9",
     "airplay-js": "git+https://github.com/guerrerocarlos/node-airplay-js.git",
     "async": "1.5.0",
     "chromecast-js": "git+https://github.com/guerrerocarlos/chromecast-js.git",
