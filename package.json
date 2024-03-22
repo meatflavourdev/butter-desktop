@@ -65,7 +65,7 @@
     "semver": "5.0.3",
     "send": "0.13.0",
     "strike-api": "0.2.0",
-    "tar": "2.2.1",
+    "tar": "6.2.1",
     "temp": "0.x.x",
     "torrent-tracker-health": "0.x.x",
     "underscore": "1.x.x",
